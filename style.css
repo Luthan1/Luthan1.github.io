@@ -134,18 +134,21 @@ body {
     background-color: var(--BASE-white);
     padding-top: 50px;
     padding-left: 50px;
+    text-decoration: none;
 }
 
 .content__img {
     display: flex;
     width: 350px;
     height: 500px;
+
 }
 .content__aka {
     font-size: 20px;
     font-weight: 700;
     padding-top: 10px;
     padding-left: 100px;
+    color: var(--PRINCIPAL-blue-800);
 }
 
 .content__text--sobremi {
