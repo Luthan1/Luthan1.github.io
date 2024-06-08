@@ -123,7 +123,6 @@ body {
 .content__presentacion {
     display: flex;
     padding-top: 50px;
-    padding-left: 80px;
     justify-content: center;
     flex-wrap: wrap;
     gap: var(--GAP-M);
@@ -581,12 +580,7 @@ body {
     gap: 40px;
     text-decoration: none;
 }
-.content__instagram--svg {
 
-}
-.instagram__svg {
-
-}
 .content__instagram--text {
     font-size: 50px;
     font-weight: 500;
@@ -598,12 +592,7 @@ body {
     gap: 40px;
     text-decoration: none;
 }
-.content__whatsapp--svg {
 
-}
-.whatsapp__svg {
-
-}
 .content__whatsapp--text {
     font-size: 50px;
     font-weight: 500;
@@ -616,12 +605,7 @@ body {
     text-decoration: none;
     align-items: center;
 }
-.content__correo--svg {
 
-}
-.correo__svg {
-
-}
 .content__correo--text {
     font-size: 50px;
     font-weight: 500;
